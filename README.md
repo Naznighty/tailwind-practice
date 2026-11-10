@@ -2,9 +2,6 @@
 
 A responsive, RTL Persian landing page for a watch store, built as a Tailwind CSS speed-practice project. It features a product grid, About and Contact sections, a custom color palette, and a dark mode toggle. It is a single static `index.html` file with no build step.
 
-![Preview](./screenshots/preview.png)
-
-> Add a screenshot at `screenshots/preview.png` (light and dark mode side by side works well).
 
 ## Features
 
@@ -54,8 +51,6 @@ An internet connection is required because Tailwind, the font, and the product i
 ```
 .
 ├── index.html
-├── screenshots/
-│   └── preview.png
 └── README.md
 ```
 
